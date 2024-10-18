@@ -1,0 +1,12 @@
+{
+  "type":"module",
+  "name": "arraymodule",
+  "version": "1.0.0",
+  "description": "custom module for basic array manipulations",
+  "main": "arrayModule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam",
+  "license": "ISC"
+}
